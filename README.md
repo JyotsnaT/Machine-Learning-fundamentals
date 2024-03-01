@@ -37,6 +37,7 @@ Algorithms
 
 ### ML system design
 - [Grokking ML system design interview](https://github.com/JyotsnaT/ML-interviews/blob/1effd3c013ba75a38cbbe23d4a79dc34e1e24594/ML%20system%20design/Grokking%20the%20ML%20interview.md)
+- [A recipe for training neural networks](https://karpathy.github.io/2019/04/25/recipe/)
 
 ### Refernce Links
 - [ML flashcards](https://github.com/b7leung/MLE-Flashcards/blob/cffad70b1350a88384f292852690cbcf98e36e26/2%20Machine%20Learning%20General.pdf)
