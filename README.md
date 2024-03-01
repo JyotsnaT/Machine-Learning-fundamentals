@@ -1,6 +1,10 @@
 # Machine Learning A to Z
 
 - Supervised Learning
+    - Evaluation
+        - Loss Functions
+        - Metrics
+        - 
 
 - Unsupervised Learning
 
