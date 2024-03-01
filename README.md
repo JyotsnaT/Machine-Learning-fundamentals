@@ -47,6 +47,7 @@ Algorithms
 # Deep Learning
 
 - Computer Vision
+    - [CNN arithmetic](https://github.com/JyotsnaT/jyotsna.github.io/blob/b98e50b655900cb979cccfab2dae869824c16cd6/summaries/ConvNN%20Arithmetic.md)
 
 - Natural Language Processing
 
