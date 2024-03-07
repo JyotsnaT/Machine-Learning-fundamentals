@@ -49,5 +49,7 @@ Algorithms
 - Computer Vision
 
 - Natural Language Processing
+    - [Sequence modelling](https://github.com/JyotsnaT/jyotsna.github.io/blob/7a170cc1f00c947eb3b881c0fa8a7f98239ad74b/summaries/RNN.md)
+    - RNN 
 
 - Generative Modelling
