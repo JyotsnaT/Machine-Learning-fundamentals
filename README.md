@@ -12,12 +12,15 @@
 
 ### Supervised Learning
 - Classification algorithms
+    - Logistic Regression
     - KNN
-    - Bayes classifier
+    - Naive Bayes classifier
     - Decision Trees
     - Support Vector Machines
+    - Adaboost
     - [Neural Networks](https://github.com/JyotsnaT/Machine-Learning-fundamentals/blob/4163dec73add7e668718fa87a2c1c31fb47f3959/NN/Neural%20Network%20Basics.md)
 - Regression Analysis
+    - Linear Regression
 - [Recommender Systems](https://github.com/JyotsnaT/ML-interviews/blob/1effd3c013ba75a38cbbe23d4a79dc34e1e24594/ML%20system%20design/Recommender%20systems.md)
 - Evaluation
     - Loss Functions
